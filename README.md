@@ -14,6 +14,6 @@
  
   <div>
 
-    ![Snake animation](https://github.com/RodrigoSeabra/RodrigoSeabra/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RodrigoSeabra/RodrigoSeabra/blob/output/github-contribution-grid-snake.svg)
     
   </div>
