@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá! Eu sou o Rodrigo Seabra
 
-<!--
-**RodrigoSeabra/RodrigoSeabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🥳 Tenho 15 anos
+- 🔭 Hoje curso o 9º ano do Ensino fundamental II
+- 🤔 Estudando, HTML, CSS e JavaScript
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/RodrigoSeabra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSeabra&show_icons=true&title_color&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSeabra&layout=compact&langs_count=7&title_color&theme=dark"/>
+</div>
+  
+ ### 
+ 
+  <div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ![Snake animation](https://github.com/RodrigoSeabra/RodrigoSeabra/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
